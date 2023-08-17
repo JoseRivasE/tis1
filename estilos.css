@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+hr{
+    margin-top: 8%;
+    margin-bottom: 6%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+a{
+    color: white;
+}
+#contenido{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+}
+#recuadro{
+    background-color: #B9FF91;
+    border: 1px dashed #000;
+    padding: 8px;
+}
