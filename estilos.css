@@ -7,6 +7,7 @@ div{
     display: inline-block;
 }
 .borde{
+    padding: 10px;
     height: 70px;
 }
 .centro{
@@ -18,11 +19,6 @@ div{
     width: 23%;
     height: 98%;
     display: inline-block;
-}
-.marco{
-    height: 100%;
-    width: 100%;
-    border-radius: 100%;
 }
 .foto{
     height: 100%;
