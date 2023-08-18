@@ -1,20 +1,31 @@
 div{
-    width: 100px;
-    height: 100px;
+    border: 1px solid;
+}
+.izquierda{
+    width: 70px;
+    height: 98%;
     display: inline-block;
-    color: white;
 }
-#rojo{
-    background-color: red;
-    opacity: 0.5;
+.borde{
+    height: 70px;
 }
-#negro{
-    background-color: black;
-    
+.centro{
+    width: 70%;
+    height: 98%;
+    display: inline-block;
 }
-#invisible{
-    visibility: hidden;
+.derecha{
+    width: 23%;
+    height: 98%;
+    display: inline-block;
 }
-h1{
-    text-align: center;
+.marco{
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+}
+.foto{
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
 }
