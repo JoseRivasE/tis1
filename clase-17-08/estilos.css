@@ -1,5 +1,6 @@
 *{
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 div{
     padding: 1px;
@@ -8,14 +9,13 @@ div{
 .borde{
     height: 100%;
     width: 100%;
-}
-.cuadrado{
-    height: 80%;
-}
-.imagen{
+    background: url("https://images.theconversation.com/files/512871/original/file-20230301-26-ryosag.jpg?ixlib=rb-1.1.0&rect=97%2C79%2C5799%2C5817&q=45&auto=format&w=926&fit=clip");
     background-size: cover;
     background-position: cover;
     background-attachment: fixed;
+}
+.cuadrado{
+    height: 80%;
 }
 .cancion{
     height: 20%;
